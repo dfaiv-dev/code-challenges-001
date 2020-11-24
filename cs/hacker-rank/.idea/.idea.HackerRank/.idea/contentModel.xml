@@ -18,6 +18,7 @@
         <e p="ProblemSolving" t="Include">
           <e p="001_EmasSuperComputer _Tests.cs" t="Include" />
           <e p="001_EmasSuperComputer.cs" t="Include" />
+          <e p="002_CountLuck_DFS.cs" t="Include" />
         </e>
         <e p="QueensAttack2.cs" t="Include" />
         <e p="RedKnightsShortestPath.cs" t="Include" />

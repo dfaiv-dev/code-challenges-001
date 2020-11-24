@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/hackerrank_py.iml" filepath="$PROJECT_DIR$/.idea/hackerrank_py.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/dfaiv-dev hackerrank_py.iml" filepath="$PROJECT_DIR$/.idea/dfaiv-dev hackerrank_py.iml" />
     </modules>
   </component>
 </project>
