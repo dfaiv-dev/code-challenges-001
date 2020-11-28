@@ -8,3 +8,6 @@ obj/
 **/.idea/**/tasks.xml
 **/.idea/**/usage.statistics.xml
 **/.idea/**/shelf
+
+.fake
+.ionide
